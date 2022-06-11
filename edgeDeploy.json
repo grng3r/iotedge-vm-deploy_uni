@@ -22,7 +22,7 @@
     },
     "vmSize": {
       "type": "string",
-      "defaultValue": "Standard_DC1s_v3",
+      "defaultValue": "Standard_GS1",
       "metadata": {
         "description": "VM size"
       }
